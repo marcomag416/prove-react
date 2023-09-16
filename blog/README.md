@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Demo of a react blog application
+
+The source code and explaination can be found here:
+https://www.geeksforgeeks.org/blog-app-using-reactjs/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
